@@ -13,7 +13,7 @@ I’m always eager to deepen my knowledge of **cloud-native architecture**, **se
 ### 💡 Collaboration & Interests
 - **Collaboration**: I’m excited to work with teams on projects that involve **distributed ML systems**, **edge-computing architectures**, and **fault-tolerant design**. 
 - **Research Questions**: I’m interested in tackling complex challenges like optimizing **resource allocation** for dynamic workloads, enhancing **data processing pipelines** across cloud-edge environments, and innovating in **system robustness and fault tolerance**.
-- Outside of research, you’ll often find me outdoors, hiking trails or reading about new tech innovations and advancements in AI-driven systems.
+- Outside of research, you’ll often find me outdoors, hiking trails.
 
 ### 💬 Ask Me About
 I’m well-versed in **Kubernetes**, **cloud infrastructure**, and **serverless frameworks**. I enjoy discussing efficient resource management strategies and exploring emerging trends in edge AI and ML-based system performance optimization.
