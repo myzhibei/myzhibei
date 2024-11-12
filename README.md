@@ -1,6 +1,6 @@
 ## Hi there, I'm Shijie Peng 👋
 
-I’m a Master’s student at the **University of Chinese Academy of Sciences** with my research training based at the **Shenzhen Institute of Advanced Technology**. I’ve since developed a strong interest in the intersection of **machine learning systems**, **cloud computing**, and **edge-cloud collaboration**. 
+I’m a Master’s student at the **University of Chinese Academy of Sciences** with my research training based at the **Shenzhen Institute of Advanced Technology**. I’ve developed a strong interest in the intersection of **machine learning systems**, **cloud computing**, and **edge-cloud collaboration**. 
 
 ### 🚀 Current Research and Work
 - **Machine Learning Systems**: I’m exploring ways to improve the efficiency and scalability of machine learning systems in real-world, high-demand environments.
