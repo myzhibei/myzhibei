@@ -1,6 +1,6 @@
 ## Hi there, I'm Shijie Peng 👋
 
-I’m a Master’s student at the **University of Chinese Academy of Sciences**, conducting my research at the **Shenzhen Institute of Advanced Technology**. My passion lies in exploring the intersections of **machine learning systems**, **cloud computing**, and **edge-cloud synergy**.
+I’m a Master’s student at the **University of Chinese Academy of Sciences**, conducting my research at the **Shenzhen Institutes of Advanced Technology**. My passion lies in exploring the intersections of **machine learning systems**, **cloud computing**, and **edge-cloud synergy**.
 
 ### 🚀 Research and Focus Areas
 - **Machine Learning Systems**: I work on enhancing the efficiency and scalability of ML systems for real-world, high-performance applications.
